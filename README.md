@@ -1,7 +1,9 @@
 # MyPlayer
 
 ## Detalhes
-Aplicativo reprodutor de áudio para Android e IOS feito com flutter e dart
+- Aplicativo reprodutor de áudio
+- para Android e IOS
+- feito com Flutter e Dart
 
 ## Protótipo no Figma
 

@@ -1,4 +1,4 @@
-# MyPlayer
+# Sonus Player
 
 ## Detalhes
 - Aplicativo reprodutor de áudio
